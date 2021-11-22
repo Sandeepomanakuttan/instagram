@@ -2,6 +2,7 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
+
 }
 
 *:focus{
@@ -13,6 +14,7 @@ body{
     background: #fafafa;
     position: relative;
     font-family: 'roboto',sans-serif;
+    
 }
 
 .navbar{
